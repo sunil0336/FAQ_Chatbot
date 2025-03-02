@@ -1,0 +1,43 @@
+The greeting intents include phrases like "hii," "hi," "Hey," "How are you," and "Hello." The responses typically offer a friendly greeting such as "Hey :-)" or "Hi there, what can I do for you?"
+
+For goodbye, common phrases include "Bye," "See you later," and "Goodbye," with responses like "See you later, thanks for visiting" and "Bye! Come back again soon."
+
+When users express thanks, responses like "Happy to help!" or "Any time!" are provided in reply to phrases like "Thanks" and "Thank you."
+
+In the pincode category, users inquire about the postal code, with responses such as "Postal Code of the College is 411004" and "Pin Code of the college is 411004."
+
+For questions about the address, the response is "Fergusson College is in Shivaji Nagar, Pune."
+
+The fees intents address inquiries about payment methods, with responses like "We accept VISA, Mastercard, Rupay and UPI" and "We accept most major credit cards, debit cards and UPI."
+
+The principal category provides information about the college's principal, with responses like "The Principal of our college is Dr. Ravindrasinh G. Pardeshi."
+
+The mission intent covers the college's mission statement, which emphasizes striving for excellence in education, and "Knowledge is Power."
+
+For foundation related questions, the response is "In January 1885, Fergusson College was founded."
+
+The motto is simply stated as "Knowledge is Power," while for founders, the response lists the key figures behind the college's founding: Vaman Shriram Apte, Bal Gangadhar Tilak, Vishnushashtri Chiplunkar, Mahadeo Ballal Namjoshi, and Gopal Krishna Agarkar.
+
+The principal_office intent confirms that the principal's office is located in the Main Building.
+
+When users inquire about admissions, typical responses include details like "Admission for Fergusson College typically starts in June - July every year" and "Admission requirements include a completed application form, academic transcripts, and a valid ID proof."
+
+For questions regarding the office, the response notes that both the Admission Office and Office No. 3 are located in the Main Building.
+
+In the invalid category, responses explain that certain details, such as those related to MIT WPU or bus routes, are outside the scope of Fergusson College.
+
+The null_details category addresses more specific inquiries that require department-specific information, with responses directing users to visit the concerned department for details.
+
+The funny category adds some lightheartedness with responses like "Why did the hipster burn his mouth? He drank the coffee before it was cool."
+
+For courses, the responses highlight the variety of undergraduate and postgraduate programs available, with courses like B.Sc. in Computer Science, B.A. in Economics, and M.Com in Finance, and details about diploma courses in Data Science and Digital Marketing.
+
+In the exams category, users are informed about exam schedules, such as "Exams are usually held in December for the first semester and April for the second semester" and how to check exam results online.
+
+The faculty section provides details about faculty qualifications and ways to contact professors, mentioning specific department heads, such as the head of the Computer Science department.
+
+Lastly, the campus_events category gives information about the events on campus, such as the annual "Fergusson Fest" held in February and upcoming sports and cultural events, encouraging students to participate.
+
+This covers the intents and responses organized by category, providing detailed information for each type of inquiry.
+
+game is kho kho

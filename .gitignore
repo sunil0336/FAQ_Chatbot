@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Build output for React
+build/
+
+# React specific
+.cache/
+.eslintcache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# npm packages and lock files (optional, but can be useful if you want to avoid tracking them)
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+*.log.*
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Testing directories
+test/
+tests/
+
+# React Native (if applicable)
+.expo/
