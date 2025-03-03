@@ -27,6 +27,7 @@ cd frontend
 npm install
 npm start
 ```
+**Note : Need to create .env file and set Gemini API key then this will work
 
 **Technologies Used:**
 - React.js (useState, useEffect, axios for API calls)
@@ -57,7 +58,6 @@ node server.js
 
 ## 🚀 Future Enhancements
 ✅ Store unanswered questions in MongoDB instead of a text file.
-✅ Implement a dashboard for chatbot admins to review and add answers.
 ✅ Train the chatbot using stored unanswered questions.
 
 ---
